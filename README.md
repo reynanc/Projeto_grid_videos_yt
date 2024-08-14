@@ -1,26 +1,20 @@
-Desafio de Projeto CSS: Reproduzindo a Listagem do YouTube com Grid Layout no CSS
-Projeto de HTML e CSS de clone da lista de vídeos na página do YouTube utilizando Grid Layout.
-Esse projeto foi proposto pela expert Michele Ambrosio da plataforma educacional DIO na Formação CSS Developer.
+# 📝 Desafio de Projeto CSS: Reproduzindo a Listagem do YouTube com Grid Layout no CSS
 
-🛠️ Tecnologias Usadas:
-🔍 Preview:
-<img src="link-para-sua-imagem-no-repositorio-ou-github-pages" alt="Preview do projeto" width="100%">
-🚀 Execução desse projeto:
-Clonar Repositório: basta utilizar o comando git clone para clonar esse projeto e salvar na máquina e depois executar o arquivo index.html.
-bash
-Copiar código
-git clone https://github.com/seuusuario/projeto-youtube-grid.git
-Visualizar Projeto: Após clonar o repositório, abra o arquivo index.html no seu navegador para visualizar a página.
-🔗 Link para o GitHub Pages:
-Venha ver como ficou o projeto acessando aqui nesse link do GitHub Pages.
-📚 Descrição do Projeto
-Este projeto tem como objetivo reproduzir a interface de listagem de vídeos do YouTube utilizando as funcionalidades avançadas do Grid Layout no CSS. A interface é totalmente responsiva, adaptando-se a diferentes tamanhos de tela, e reflete o design característico do YouTube, proporcionando uma experiência prática no uso do Grid Layout para criar layouts complexos e eficientes.
+Projeto de HTML e CSS para clonar a lista de vídeos da página do YouTube utilizando Grid Layout.  
+Este projeto foi proposto pela expert Michele Ambrosio da plataforma educacional DIO na Formação CSS Developer.
 
-🤝 Contribuições
-Contribuições são bem-vindas! Se você encontrou algum problema ou tem sugestões de melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+## 🛠️ Tecnologias Usadas:
 
-📝 Licença
-Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
+- ![HTML5 Badge](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=flat-square)
+- ![CSS3 Badge](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=flat-square)
 
-📞 Contato
-Se você tiver alguma dúvida ou quiser entrar em contato, pode me encontrar no LinkedIn ou enviar um e-mail para seuemail@exemplo.com.
+## 🔍 Preview:
+
+![Preview do projeto](https://link-para-sua-imagem-no-repositorio-ou-github-pages.png)
+
+## 🚀 Execução desse Projeto:
+
+1. **Clonar Repositório:** Para clonar este projeto, execute o seguinte comando no terminal:
+   ```bash
+   git clone https://github.com/seuusuario/projeto-youtube-grid.git
+
