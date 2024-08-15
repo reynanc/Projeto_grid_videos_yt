@@ -13,5 +13,5 @@ Este projeto foi proposto pela expert Michele Ambrosio da plataforma educacional
 
 1. **Clonar Repositório:** Para clonar este projeto, execute o seguinte comando no terminal:
    ```bash
-   git clone https://github.com/seuusuario/projeto-youtube-grid.git
+   git clone https://github.com/reynan/Projeto_grid_videos_yt.git
 
