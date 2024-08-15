@@ -20,7 +20,7 @@ header .logo-menu img {
 }
  
 header .search input {
-    width: 100%;
+    width: 360px;
     max-width: 348px;
     height: 40px;
     border: 1px solid #CCC;
@@ -45,39 +45,40 @@ header .notification img {
     height: 34px;
     border-radius: 50%;
 }
+
+header, .logo-menu, .search, .notification {
+    max-width: 100%;
+    overflow-x: hidden; 
+}
  
 /* 
    main 
 */
+
  /* Ajustes Gerais */
 body, html {
     margin: 0;
     padding: 0;
-    overflow-x: hidden; /* Evita o scroll horizontal */
-    box-sizing: border-box; /* Inclui padding e bordas dentro da largura dos elementos */
+    overflow-x: hidden; 
+    box-sizing: border-box; 
 }
 
 /* Certifique-se de que a largura do main não ultrapasse 100% */
 main {
     max-width: 100%; 
-    overflow-x: hidden; /* Evita que o conteúdo do main cause scroll horizontal */
+    overflow-x: hidden; 
 }
 
 /* Ajuste da List Videos para ocupar o espaço adequadamente */
 main .content .list-videos {
     background: #EFEFEF;
-    width: calc(100% - 48px); /* Subtraí o padding para evitar overflow */
+    width: calc(100% - 48px); 
     padding: var(--spacing-large);
     display: grid;
-    grid-template-columns: repeat(4, 1fr); /* Mantém 4 colunas fixas */
+    grid-template-columns: repeat(4, 1fr); 
     gap: 20px;
     justify-content: center;
-    box-sizing: border-box; /* Inclui padding dentro da largura do elemento */
-}
-
-header, .logo-menu, .search, .notification {
-    max-width: 100%;
-    overflow-x: hidden; /* Certifica que o header não cause scroll horizontal */
+    box-sizing: border-box; 
 }
 
  
@@ -132,8 +133,8 @@ main .content .list-videos .video {
 main .content .list-videos .video img {
     width: 100%;
     height: auto;
-    object-fit: cover; /* Garante que a imagem cubra o card */
-    border-radius: 8px 8px 0 0; /* Ajusta os cantos arredondados da imagem para coincidir com o card */
+    object-fit: cover; 
+    border-radius: 8px 8px 0 0; 
 }
 
  

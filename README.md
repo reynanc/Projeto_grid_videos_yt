@@ -8,6 +8,8 @@ Este projeto foi proposto pela expert Michele Ambrosio da plataforma educacional
 - ![HTML5 Badge](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=flat-square)
 - ![CSS3 Badge](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=flat-square)
 
+## 🖥 Preview:
+![Imagem do Projeto](assets/img/imagem_projeto.png)
 
 ## 🚀 Execução desse Projeto:
 
@@ -15,3 +17,5 @@ Este projeto foi proposto pela expert Michele Ambrosio da plataforma educacional
    ```bash
    git clone https://github.com/reynanc/Projeto_grid_videos_yt.git
 
+## 🤔 O que foi feito nesse projeto:
+- Criar um clone da página  de Listagem do Youtube utilizando os conceitos de Grid e Flexbox;
